@@ -68,7 +68,7 @@ import { OnInit } from '@angular/core';
     border-radius: 4px 0 0 4px;
   }
 `]
-    ,providers:[EmployeeService]
+    
 })
 
 export class EmployeesComponent implements OnInit{
